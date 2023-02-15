@@ -1,16 +1,17 @@
-### Hi there 👋
+## I'm Software Engineer
 
-<!--
-**rakhimgaliyev/rakhimgaliyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages and tools
+[![JS](https://img.shields.io/badge/JS(ES6+)-090909?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![TS](https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react)](https://reactjs.org/) [![NextJS](https://img.shields.io/badge/nextjs-090909?style=for-the-badge&logo=nextjs)](https://nextjs.org/)
+
+
+### Follow me
+[![telegram](https://img.shields.io/badge/telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/rakhimgaliyev)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakhimgaliyev/)
+
+
+### Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakhimgaliyev&layout=compact&theme=dark&width=100%)](https://github.com/rakhimgaliyev)
