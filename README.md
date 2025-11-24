@@ -1,8 +1,16 @@
 ## I'm Software Engineer
 
 ### Languages and tools
-[![JS](https://img.shields.io/badge/JS(ES6+)-090909?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![TS](https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 
+[![Go](https://img.shields.io/badge/Go-090909?style=for-the-badge&logo=go)](https://go.dev/)
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
+[![Redis](https://img.shields.io/badge/Redis-090909?style=for-the-badge&logo=redis)](https://redis.io/)
+[![Kafka](https://img.shields.io/badge/Kafka-090909?style=for-the-badge&logo=apachekafka)](https://kafka.apache.org/)
+[![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-090909?style=for-the-badge&logo=kubernetes)](https://kubernetes.io/)
+
+[![JS](https://img.shields.io/badge/JS(ES6+)-090909?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![TS](https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 
 [![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react)](https://reactjs.org/) [![NextJS](https://img.shields.io/badge/nextjs-090909?style=for-the-badge&logo=nextjs)](https://nextjs.org/)
 
