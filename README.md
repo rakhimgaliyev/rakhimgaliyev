@@ -24,7 +24,7 @@ Currently at **Clarity (Anecdote AI)**, working on a Voice-of-Customer platform:
 
 **AI / LLM**
 
-[![OpenAI](https://img.shields.io/badge/OpenAI-090909?style=for-the-badge&logo=openai)](https://openai.com/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-090909?style=for-the-badge)](https://openai.com/)
 [![LLM agents](https://img.shields.io/badge/LLM%20agents-090909?style=for-the-badge&logo=probot)](https://github.com/rakhimgaliyev)
 [![MCP](https://img.shields.io/badge/MCP-090909?style=for-the-badge&logo=anthropic)](https://modelcontextprotocol.io/)
 
@@ -33,13 +33,9 @@ Currently at **Clarity (Anecdote AI)**, working on a Voice-of-Customer platform:
 [![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-090909?style=for-the-badge&logo=kubernetes)](https://kubernetes.io/)
 [![NixOS](https://img.shields.io/badge/NixOS-090909?style=for-the-badge&logo=nixos)](https://nixos.org/)
-[![AWS](https://img.shields.io/badge/AWS-090909?style=for-the-badge&logo=amazonwebservices)](https://aws.amazon.com/)
+[![AWS](https://img.shields.io/badge/AWS-090909?style=for-the-badge)](https://aws.amazon.com/)
 
 ### Follow me
 
 [![telegram](https://img.shields.io/badge/telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/rakhimgaliyev)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakhimgaliyev/)
-
-### Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakhimgaliyev&layout=compact&theme=dark&width=100%)](https://github.com/rakhimgaliyev)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/rakhimgaliyev/)
