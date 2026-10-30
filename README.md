@@ -2,7 +2,7 @@
 
 I build products end-to-end — UI, APIs, data pipelines and the LLM agents in between.
 
-Currently at **Clarity (Anecdote AI)**, working on a Voice-of-Customer platform: agentic operator configuration, ChatKit-based tool-progress streaming, and Elasticsearch-backed analytics dashboards.
+Currently at **OnClarity (Anecdote AI)**, working on a Voice-of-Customer platform: agentic operator configuration, ChatKit-based tool-progress streaming, and Elasticsearch-backed analytics dashboards.
 
 ### Languages and tools
 
